@@ -1,0 +1,17 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node src/npm/deployContract.js",
+    "store": "node src/npm/StoreNumber.js",
+    "read": "node src/npm/ReadNumber.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.8.7-fixed",
+    "web3": "^1.5.2"
+  }
+}

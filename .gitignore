@@ -1,0 +1,9 @@
+blockchain
+build
+.idea
+tmp
+node_modules
+blockchain*
+.puppeth
+data
+windows_executables
