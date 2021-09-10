@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "createAccount": "node src/npm/createAccount.js",
     "deploy": "node src/npm/deployContract.js",
     "store": "node src/npm/StoreNumber.js",
     "read": "node src/npm/ReadNumber.js"
