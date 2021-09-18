@@ -1,4 +1,3 @@
-# create network itself
 to create network you need to create first block in the network which is called Genesis block
 
 to create it use this command: 
