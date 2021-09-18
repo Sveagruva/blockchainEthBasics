@@ -28,7 +28,7 @@ after that you can create account like that
 personal.newAccount('password')
 //address _output
 
-// while testing you might need to ignore singing transactions for simplisity
+// while testing you might need to ignore signing transactions for simplisity
 personal.unlockAccount("_output", "password", time exm: 15000)
 
 ```
