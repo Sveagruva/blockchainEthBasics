@@ -1,6 +1,3 @@
-first of all Windows is trash
-
-
 # create network itself
 to create network you need to create first block in the network which is called Genesis block
 
